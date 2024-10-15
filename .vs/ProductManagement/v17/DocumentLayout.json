@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Srihari dotnet\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|d:\\srihari dotnet\\productmanagement\\productmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|D:\\Srihari dotnet\\ProductManagement\\productmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|D:\\Srihari dotnet\\ProductManagement\\productmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|D:\\Srihari dotnet\\ProductManagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|D:\\Srihari dotnet\\ProductManagement\\productmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E08E3C1-A460-435B-91D0-F7C12E286A6D}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginForm.cs",
+              "ToolTip": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\LoginForm.cs*",
+              "RelativeToolTip": "ProductManagement\\LoginForm.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-06T00:54:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainForm.cs",
+              "ToolTip": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\MainForm.cs",
+              "RelativeToolTip": "ProductManagement\\MainForm.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:53:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginForm.cs",
+              "ToolTip": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "ProductManagement\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-06T00:58:04.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
+              "ToolTip": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeToolTip": "ProductManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:52:26.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Form1.cs",
+              "ToolTip": "D:\\Srihari dotnet\\ProductManagement\\ProductManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-06T00:51:49.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
